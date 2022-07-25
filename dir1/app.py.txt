@@ -1,0 +1,3 @@
+a = print(input("enter a number")
+b = print(input("enter another number")
+print(a+b)
